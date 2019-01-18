@@ -2,6 +2,12 @@
 
 A very minimal web library. This library is created for hammercode nodejs class learning materials.
 
+### Installing
+
+```sh
+npm install minimal-web-lib
+```
+
 ## API
 
 ### Creating new instance
