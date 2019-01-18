@@ -1,0 +1,20 @@
+{
+  "name": "minimal-web-lib",
+  "version": "0.0.1",
+  "description": "A very minimal web library. This library is created for hammercode nodejs class learning materials.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "example": "node examples/index.js",
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "hello@hammercode.org",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^1.1.0"
+  }
+}
